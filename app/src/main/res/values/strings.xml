@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MapTest</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_eventactivity">Eventactivity</string>
+    <string name="location_permission_denied">location_permission_denied</string>
+    <string name="permission_required_toast">permission_required_toast</string>
+    <string name="permission_rationale_location">permission_rationale_location</string>
+    <string name="textViewBuilding">Building</string>
+    <string name="textViewType">Type</string>
+    <string name="textViewStart">Start</string>
+    <string name="textViewEnd">End</string>
+    <string name="search">Search</string>
+    <string name="getData">GetData</string>
+    <string name="inDialog">InDialog</string>
+    <string name="title_activity_text_view_expandable_animation">TextViewExpandableAnimation</string>
+    <string-array name="spinnerType">
+        <item>Fed</item>
+        <item>Information session</item>
+        <item>Conference</item>
+        <item>Seminar</item>
+        <item>Workshop</item>
+    </string-array>
+    <string-array name="spinnerBuilding">
+        <item>DC</item>
+        <item>DP</item>
+        <item>SLC</item>
+        <item>E5</item>
+        <item>E3</item>
+        <item>RCH</item>
+        <item>PAC</item>
+    </string-array>
+</resources>
